@@ -1,5 +1,3 @@
-
-
 * {
   padding: 0;
   margin: 0;
@@ -13,4 +11,6 @@ body {
   color: #555;
 }
 
-
+html{
+    font-size: 62.5%;
+}

@@ -1,0 +1,9 @@
+1. max-width: 1000px --> will not stretch above 1000px but will shrink it is lower than 1000px
+
+2. rem unit --> propotinal to root html   default--> 16px 
+we use html{
+    Percentage of user's browser font-size setting
+    10px / 16px = 0.625 = 62.5% or 16*0.625 = 10 
+
+    font-size: 62.5% because if we set to 10px then it is fixed state we cannot change other than 10px so instead we use percentages
+}
